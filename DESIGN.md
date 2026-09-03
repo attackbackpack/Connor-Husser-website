@@ -46,11 +46,11 @@ its performance behavior: capped device pixels, `requestAnimationFrame`,
 resize observation, visibility pause, and static reduced-motion render. The
 three native controls are explicitly exploratory/decorative, retain visible
 values, update field state/render, and the keyboard-accessible Reset field
-action restores 64 / 58 / 52. Work uses only the three verified screenshots.
-The Hawaii concepts are labeled once as unsolicited concepts, never client
-work. The service work index contains only websites: Switchyard Cycle, Seeded
-Identity, Absurdly Rational, and 7Gradi Gelato. No placeholders or rejection
-narrative is rendered.
+action restores 64 / 58 / 52. The service work index contains only websites:
+Switchyard Cycle, Seeded Identity, Absurdly Rational, and 7Gradi Gelato. No
+placeholders or rejection narrative is rendered. Rootwork remains in the
+personal portfolio as a study tool and is not presented as website-service
+proof.
 
 ## Website gallery
 
@@ -61,7 +61,9 @@ full-resolution link. Status and stage context stay adjacent to every artifact.
 
 Switchyard Cycle is a separate fictional sample world documented inside its
 own folder. Its workshop-yellow, track-blue, asphalt, and chalk system does not
-replace Seeded Identity outside the sample frame.
+replace Seeded Identity outside the sample frame. Its hero uses one generated,
+text-free tactile raster as a material layer; all readable content and controls
+remain semantic HTML, and the source asset carries embedded prompt provenance.
 
 ## Accessibility, responsive, and links
 
