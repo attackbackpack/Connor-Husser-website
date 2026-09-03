@@ -1,0 +1,7 @@
+Use case: ui-mockup
+Asset type: desktop website north-star comp, 1440x1000 landscape, variation 2
+Primary request: Design a high-fidelity responsive website for a fictional neighborhood bicycle repair shop called SWITCHYARD CYCLE. Preserve the committed velodrome lap-board world: fixed slots, instant state changes, track blue, workshop yellow, asphalt ink, chalk white, compressed grotesk display type. This must be a real website interface, not a poster.
+Composition/framing: black utility header; first viewport dominated by a full-width horizontal repair status board with headline "PICK THE SYMPTOM. GET THE NEXT STEP." at left and four click-like fixed problem cells at right. One active cell flips workshop-yellow and reveals a concise recommendation panel below without changing layout. Visible CTA "CHECK MY BIKE". The second fold begins with a dense timetable comparing quick check, tune-up, and deep service. Avoid a standard split hero and avoid a generic card grid.
+Text (verbatim): "SWITCHYARD CYCLE"; "FICTIONAL WEBSITE CONCEPT"; "PICK THE SYMPTOM. GET THE NEXT STEP."; "CHECK MY BIKE"; "Stops poorly"; "Shifts badly"; "Feels slow"; "Makes a noise"; "TODAY’S BENCH"; "2 QUICK-CHECK SLOTS"
+Constraints: Explicit fictional-label, no addresses, prices, phone numbers, testimonials, outcomes, or client claims. All core UI text legible and spelled correctly.
+Avoid: stock photography, soft shadows, rounded cards, gradients, cream editorial styling, serif type, neon glow, fake data beyond clearly illustrative availability.

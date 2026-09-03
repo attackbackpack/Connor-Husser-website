@@ -1,0 +1,73 @@
+{
+  "title": "Choose Connor Husser's visual world",
+  "question": "Which identity feels honest enough to be you and clear enough to sell local website work?",
+  "options": [
+    {
+      "id": "assigned",
+      "label": "Local Member Ledger",
+      "kicker": "RECOMMENDED DIRECTION",
+      "lineage": "local business directories, civic indexes, membership ledgers",
+      "thesis": "A signed public record of who Connor helps, what he makes, and what the owner receives.",
+      "palette": ["#154DFF", "#F5E642", "#F4F2EA", "#16181D"],
+      "materials": ["laminated directory tabs", "vinyl numerals", "verification stamps"],
+      "viewport": "A large Connor Husser masthead sits beside a numbered service record, proof index, and direct project inquiry.",
+      "risk": "It can feel bureaucratic unless Connor's signature, photograph, and plain voice keep it personal.",
+      "sketch": ".impeccable/sketches/local-member-ledger.webp"
+    },
+    {
+      "id": "challenger-generative",
+      "label": "Seeded Identity",
+      "lineage": "generative parametric identity",
+      "thesis": "Every project begins with a few real business facts that tune the identity around them.",
+      "case": "Memorable and flexible, but the live system risks making Connor look like a technology experiment instead of a trusted local partner.",
+      "palette": ["#151515", "#52F28B", "#8D5CFF", "#F7F7F2"],
+      "materials": ["parametric vector marks", "seed-derived color fields", "live controls"],
+      "viewport": "Connor's name and offer sit beside a living mark whose parameters demonstrate how business facts shape the work.",
+      "risk": "The mechanism can overpower the straightforward service being sold.",
+      "sketch": ".impeccable/sketches/seeded-identity.webp",
+      "hero": "https://impeccable.style/worlds/cards/generative-parametric-identity-hero.webp",
+      "board": "https://impeccable.style/worlds/cards/generative-parametric-identity.webp"
+    },
+    {
+      "id": "challenger-sampler",
+      "label": "Signed Practice Sheet",
+      "lineage": "stitched alphabet and motif sampler",
+      "thesis": "The portfolio shows skill developing honestly from family work to concepts to local commissions.",
+      "case": "It makes the early stage transparent, but its childhood-learning association weakens professional authority.",
+      "palette": ["#224F9C", "#CF3F38", "#2B7A4B", "#E8E0CE"],
+      "materials": ["visible woven ground", "ordered stitched bands", "signed footer"],
+      "viewport": "Connor's name leads a sequence of increasingly ambitious project bands, ending with a dated personal signature.",
+      "risk": "The metaphor can read handmade or young when the offer needs competence and speed.",
+      "sketch": ".impeccable/sketches/signed-practice-sheet.webp",
+      "hero": "https://impeccable.style/worlds/cards/graphic-worlds-publishing-sampler-alphabet-proof-hero.webp",
+      "board": "https://impeccable.style/worlds/cards/graphic-worlds-publishing-sampler-alphabet-proof.webp"
+    },
+    {
+      "id": "challenger-instruments",
+      "label": "Six-Point Check",
+      "lineage": "night-flight instrument six-pack",
+      "thesis": "A business's online presence becomes six calm checks that show what is working and what needs attention.",
+      "case": "The free review becomes tangible and clear, but aviation language is unfamiliar to most local owners.",
+      "palette": ["#0A0D10", "#E9F8EE", "#8DFF9F", "#FFB13B"],
+      "materials": ["matte instrument panel", "luminous gauge markings", "placard labels"],
+      "viewport": "Connor's offer sits above six ranked gauges that summarize clarity, trust, contact, mobile use, ownership, and search foundations.",
+      "risk": "The dark technical cockpit may make a simple local service feel specialized or severe.",
+      "sketch": ".impeccable/sketches/six-point-check.webp",
+      "hero": "https://impeccable.style/worlds/cards/signals-instruments-night-flight-six-pack-hero.webp",
+      "board": "https://impeccable.style/worlds/cards/signals-instruments-night-flight-six-pack.webp"
+    }
+  ],
+  "reroll": true,
+  "canon": true,
+  "canonCard": {
+    "label": "The category standard",
+    "lineage": "polished independent web-designer portfolio",
+    "thesis": "A familiar personal portfolio with selected work, services, biography, and a contact action.",
+    "palette": ["#111111", "#FFFFFF", "#2864FF", "#EAEAEA"],
+    "materials": ["clean project mockups", "neutral content grid", "simple buttons"],
+    "viewport": "A large personal headline, one featured website mockup, service summary, and contact button.",
+    "risk": "It is immediately understandable but gives people little reason to remember Connor specifically.",
+    "sketch": ".impeccable/sketches/category-standard.webp"
+  },
+  "steer": true
+}

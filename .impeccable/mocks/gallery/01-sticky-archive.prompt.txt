@@ -1,0 +1,8 @@
+Use case: ui-mockup
+Asset type: desktop website gallery north-star comp, 1440x1000 landscape
+Input images: Image 1 is the existing Connor Husser portfolio; carry over its off-white paper, deep ink, thin rules, self-hosted-looking Barlow character, and violet/azure/mint/yellow Seeded Identity accents. Do not copy its page content or hero.
+Primary request: Design a dedicated "Website gallery" page in the established Connor Husser identity. This is an Experience surface where the artifacts lead. Use a browser-archive structure: a compact sticky index at left and one enormous uncropped browser-stage at right, showing a full website screenshot at readable scale with a thin browser bar. Below it, the next website stage begins. Avoid a card grid.
+Composition/framing: narrow top nav; huge title "Website gallery"; compact sentence explaining that every preview is shown uncropped; left index with four entries and status labels; right dominant stage for "Switchyard Cycle" with an obvious "Open sample" action and small factual metadata. Show the beginning of "Seeded Identity" below so the archive feels scrollable.
+Text (verbatim): "WEBSITE GALLERY"; "Full pages, not cropped thumbnails."; "01 SWITCHYARD CYCLE"; "Fictional website concept"; "02 SEEDED IDENTITY"; "Working personal identity"; "03 ABSURDLY RATIONAL"; "Published and maintained"; "04 7GRADI GELATO"; "Unsolicited concept"; "OPEN SAMPLE"
+Constraints: preserve square geometry, no shadows, no device mockups, no invented client claims, no photos, no fake metrics. The main preview must be clearly legible and not cropped.
+Avoid: bento grids, rounded cards, generic portfolio tiles, gradient text, glassmorphism, masonry, tiny thumbnails.

@@ -1,0 +1,13 @@
+Use case: ui-mockup
+Asset type: desktop website north-star comp, 1440x1000 landscape
+Primary request: Design the first viewport and enough of the second fold for a fictional neighborhood bicycle repair shop called SWITCHYARD CYCLE. This is a real website interface, not a poster or a photograph. The unique mechanism is a fixed-slot service board that turns a vague bike problem into one clear next step.
+Scene/backdrop: bright bike workshop in daylight translated into a precise digital service board.
+Subject: local bike repair services, walk-in triage, same-day tune-up availability as clearly labeled fictional demonstration content.
+Style/medium: high-fidelity responsive web UI comp derived from a velodrome lap board and workshop service tags; fixed numbered slots, track-lane geometry, crisp state changes, bold compressed grotesk display type plus plain sans body.
+Composition/framing: slim utility header; left 42% is an enormous headline "WHAT DOES YOUR BIKE NEED?" with two short lines of supporting copy and a strong "START A 60-SECOND CHECK" button; right 58% is a giant interactive-looking lap-board diagnostic with three fixed rows "Stops poorly", "Shifts badly", "Feels slow", each showing a clear next-step service tag. Below the fold, show the top of a three-column service timing strip. No generic card grid and no full-bleed hero photograph.
+Lighting/mood: direct sun, hard-working, alert, approachable.
+Color palette: committed track blue, workshop yellow, asphalt ink, chalk white; color fields own large regions.
+Materials/textures: matte painted score board, enamel service tags, rubber-black rules; no glassmorphism, no soft shadows.
+Text (verbatim): "SWITCHYARD CYCLE"; "FICTIONAL WEBSITE CONCEPT"; "WHAT DOES YOUR BIKE NEED?"; "START A 60-SECOND CHECK"; "Stops poorly"; "Shifts badly"; "Feels slow"; "TODAY’S BENCH"; "2 QUICK-CHECK SLOTS"
+Constraints: Explicitly label the site "FICTIONAL WEBSITE CONCEPT". Keep all core UI text readable and spelled correctly. Demonstrate a persuasive local-business website with a visible action in the first viewport.
+Avoid: generic SaaS cards, stock photography, cream editorial styling, serif type, neon glow, gradients, fake testimonials, invented addresses, prices, phone numbers, outcomes, or client claims.

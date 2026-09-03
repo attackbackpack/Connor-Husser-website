@@ -1,0 +1,11 @@
+Use case: ui-mockup
+Asset type: high-fidelity north-star comp for a desktop personal-brand service website
+Primary request: Design a complete desktop landing-page composition for Connor Husser using the supplied generative parametric identity references, with proof and project honesty leading before service claims.
+Page structure in order: narrow vertical left rail with Connor Husser wordmark, numbered anchors 01 WORK / 02 OFFER / 03 PROCESS / 04 ABOUT; main canvas starts with a concise headline and action above a large project index; one row is clearly REAL PROJECT and two rows are clearly CONCEPT STUDY; each row has a distinct seed-generated miniature mark and color harmony; a single large parametric field bridges the project index into a lower offer section; the beginning of Connor's personal statement is visible at the bottom.
+Scale relationships: name and headline occupy the top quarter; honest project rows occupy the largest readable region; the parametric field is structural connective tissue, not decoration; CTA remains visible.
+Exact text: "CONNOR HUSSER"; "One person. Clear work. No agency handoff."; "SEE HOW I WORK"; "REAL PROJECT"; "CONCEPT STUDY"; "CONCEPT STUDY"; "WEBSITE REVIEW"; "WEBSITE BUILD"; "OWNER HANDOFF"; "I do the work and answer the phone."
+Identity: pale mist field with deep night-ink rail, seed-generated violet / azure / sea-green / yellow marks, precise condensed display face paired with neutral body type, fine line rules, flat vector surfaces, no shadows.
+Interaction implied: selecting a project row reseeds the mark, colors, dividers, and project-detail accent in lockstep.
+Evidence constraints: no testimonials, no client logos, no invented performance statistics, no fake customer names, no ranking guarantees, no prices.
+Composition constraints: clearly a responsive portfolio-service website; show enough below the first viewport to establish offer and personal narrative; no device frame.
+Avoid: tech dashboard panels, generic portfolio mockup tiles, bento cards, glassmorphism, laptops, phones, 3D objects, fake data, stock photography.

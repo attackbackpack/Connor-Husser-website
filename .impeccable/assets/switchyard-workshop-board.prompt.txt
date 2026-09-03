@@ -1,0 +1,9 @@
+Use case: stylized-concept
+Asset type: full-bleed website hero background texture for a fictional bicycle repair sample
+Primary request: Create a production-ready 3:2 landscape background derived from the reference image's physical visual world and topology, but with every text-bearing surface left blank so exact accessible HTML text can be overlaid. Preserve a blue velodrome/track field on the left, a bold diagonal cream-and-rust lane seam through the middle, and a black workshop service-board cabinet on the right. The service board should have a substantial blank blue enamel header sign, three stacked dark metal rows, three hanging blank enamel plates (yellow, blue, cream), yellow directional arrows, metal rails, bolts, hooks, subtle wear, and a bottom bench-counter panel with a mechanical two-digit flip counter plus a blank yellow slot plate. Keep the uppermost 8% relatively quiet for navigation overlay.
+Style/medium: tactile editorial product photography / high-end 3D set design, grounded real materials rather than glossy CGI
+Composition/framing: wide 3:2, same left/right split and diagonal energy as reference, with generous unobstructed left area for a large headline; right service board fills roughly 58% of the frame
+Lighting/mood: crisp workshop daylight, readable contrast, restrained shadows, purposeful and energetic
+Color palette: track cobalt blue, asphalt black, chalk white, safety yellow, weathered rust red
+Materials/textures: painted track aggregate, brushed black steel, enamel plates, galvanized rails, visible fasteners and hooks, light authentic scuffs
+Constraints: no words, no letters, no logos, no brand marks, no watermarks, no people, no bicycles; do not reproduce or rasterize any text from the reference; leave blank fields where text will be overlaid; preserve clear geometry for HTML overlays

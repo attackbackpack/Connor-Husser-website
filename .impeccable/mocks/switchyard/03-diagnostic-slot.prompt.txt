@@ -1,0 +1,7 @@
+Use case: ui-mockup
+Asset type: desktop website north-star comp, 1440x1000 landscape, variation 3
+Primary request: Design a high-fidelity responsive website for a fictional neighborhood bicycle repair shop called SWITCHYARD CYCLE. Preserve the committed velodrome lap-board world: fixed numeric slots, enamel service tags, track-lane geometry, track blue, workshop yellow, asphalt ink, chalk white, bold compressed grotesk display type. This is a persuasive local-business website screen, not a poster.
+Composition/framing: slim black header; giant vertical "01 / 02 / 03" service selector occupying the left third; the center third carries the headline "ONE PROBLEM. ONE CLEAR NEXT STEP." and supporting copy; the right third is a live-looking diagnostic slot with a simple bicycle line diagram and a yellow enamel tag reading "START A 60-SECOND CHECK". Below, a strip titled "WHAT HAPPENS NEXT" shows three connected steps like laps on a scoreboard. Visible hierarchy, one primary CTA, no generic card grid.
+Text (verbatim): "SWITCHYARD CYCLE"; "FICTIONAL WEBSITE CONCEPT"; "ONE PROBLEM. ONE CLEAR NEXT STEP."; "START A 60-SECOND CHECK"; "Stops poorly"; "Shifts badly"; "Feels slow"; "WHAT HAPPENS NEXT"; "CHECK"; "DIAGNOSE"; "RIDE"
+Constraints: Explicit fictional-label, no addresses, prices, phone numbers, testimonials, outcomes, or client claims. All core text must be readable.
+Avoid: stock photography, gradients, rounded cards, glassmorphism, cream editorial styling, serif type, neon glow, fake client proof.

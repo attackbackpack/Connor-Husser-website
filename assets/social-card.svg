@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Connor Husser</title>
+  <desc id="desc">Websites, tools, and systems that make complicated things clearer.</desc>
+  <rect width="1200" height="630" fill="#fbfaf9"/>
+  <g fill="none" stroke-width="2" opacity="0.32">
+    <path d="M690 82c106 65 55 175 188 211s224-36 304 46" stroke="#6b41fc"/>
+    <path d="M652 156c112-79 180 73 265 56s166-112 281-46" stroke="#4a7cff"/>
+    <path d="M715 494c58-148 167-48 249-126s122-48 220-8" stroke="#22bfc6"/>
+    <path d="M684 388c99-67 153 72 244 54s146-118 256-79" stroke="#ffd84d"/>
+    <path d="M735 44c-42 141 156 111 142 249s141 142 290 98" stroke="#6b41fc"/>
+    <path d="M824 24c-7 122 128 154 76 261s72 229 251 184" stroke="#4a7cff"/>
+    <path d="M996 29c-79 90 26 184-39 262s7 189 193 221" stroke="#22bfc6"/>
+  </g>
+  <g transform="translate(64 60)">
+    <circle cx="5" cy="5" r="5" fill="#6b41fc"/>
+    <circle cx="21" cy="5" r="5" fill="#4a7cff"/>
+    <circle cx="37" cy="5" r="5" fill="#22bfc6"/>
+    <circle cx="53" cy="5" r="5" fill="#ffd84d"/>
+  </g>
+  <text x="136" y="73" fill="#10111f" font-family="Barlow, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="4">CONNOR HUSSER</text>
+  <text x="64" y="222" fill="#10111f" font-family="Barlow, Arial, sans-serif" font-size="76" font-weight="500" letter-spacing="-3">
+    <tspan x="64" dy="0">I make complicated</tspan>
+    <tspan x="64" dy="82">things clearer.</tspan>
+  </text>
+  <text x="64" y="474" fill="#414251" font-family="Barlow, Arial, sans-serif" font-size="28">Websites, tools, and systems.</text>
+  <line x1="64" y1="545" x2="1136" y2="545" stroke="#dedee4"/>
+  <text x="64" y="586" fill="#6b41fc" font-family="Barlow, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="3">CONNORHUSSER.COM</text>
+  <text x="1136" y="586" text-anchor="end" fill="#696a79" font-family="Barlow, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="2">EB2FB559</text>
+</svg>
