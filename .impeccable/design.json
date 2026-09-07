@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-05T00:00:00Z",
+  "title": "Design System: Seeded Identity",
+  "tokens": {
+    "colors": {
+      "paper": "#fbfaf9",
+      "ink": "#10111f",
+      "body": "#414251",
+      "muted": "#696a79",
+      "rule": "#dedee4",
+      "frame": "#efedf5",
+      "violet": "#6b41fc",
+      "azure": "#4a7cff",
+      "mint": "#22bfc6",
+      "yellow": "#ffd84d"
+    },
+    "typography": {
+      "body": "Barlow 400, 17px/1.55",
+      "display": "Barlow 500",
+      "editorial": "Barlow Condensed 600"
+    },
+    "geometry": {
+      "buttonHeight": "56px",
+      "tapTarget": "44px",
+      "border": "1px"
+    }
+  },
+  "extensions": {
+    "motion": [
+      {
+        "name": "canvas-slow",
+        "value": "6800ms",
+        "purpose": "Deliberately slow decorative canvas phase; pauses when hidden and becomes static under reduced motion."
+      }
+    ]
+  }
+}

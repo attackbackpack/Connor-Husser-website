@@ -35,8 +35,7 @@ explains the handoff; this is a personal practice, not a multi-person agency.
   availability, and service content are illustrative, not client proof.
 
 Only `assets/projects/rootwork.png`, `absurdly-rational.png`, and
-`7gradi-concept.png` are shipped raster project proof. Switchyard Cycle and
-Seeded Identity are shown as live local pages instead of raster proof. Do not ship any
+`7gradi-concept.png` are authorized raster project proof; `assets/projects/7gradi-concept.webp` is permitted only as a display derivative of that same PNG, and original full-resolution links remain pointed at the PNG. Switchyard Cycle and Seeded Identity are shown as live local pages instead of raster proof. Do not ship any
 Queen’s-derived image, handout, map, or Impeccable mock as project proof.
 
 ## Contact and ownership limits
