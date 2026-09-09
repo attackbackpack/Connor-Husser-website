@@ -40,7 +40,8 @@ Queen’s-derived image, handout, map, or Impeccable mock as project proof.
 
 ## Contact and ownership limits
 
-Production contact details are unresolved. Neither route may publish a
+Production contact details are supplied by the owner: email
+`connorshusser@gmail.com` and phone `605-679-0870`. Neither route may publish a
 placeholder email, phone number, mailto link, fake form, or unverified project
 link. Do not invent metrics, client results, approvals, user claims, delivery
 promises, rankings, or commercial outcomes.
